@@ -1,6 +1,6 @@
-# 📸 Fake Instagram Profile Detection
+# Fake Instagram Profile Detection (Assesment Task)
 
-## 🚀 Task Description
+## Task Description
 
 This project aims to build robust models to detect fake Instagram profiles using two distinct approaches:
 
@@ -9,9 +9,9 @@ This project aims to build robust models to detect fake Instagram profiles using
 
 ---
 
-## 📊 Model Overview
+## Model Overview
 
-### 1️⃣ Updated Baseline Model (Advanced DNN)
+### 1️⃣ Updated Baseline Model 
 
 **Techniques Used:**
 - **Optuna Hyperparameter Tuning**: Optimizes number of layers, units, dropout rate, learning rate.
@@ -95,10 +95,11 @@ python NewModels.py
 
 | Model                    | Precision                  | Recall                  | F1-Score                 
 |-------------------------|----------------------------|------------------------|-------------------------|
-| **Logistic Regression**  | 90  | Moderate recall         | Moderate                 |
-| **Random Forest**        | 90    | Better recall & precision| Improved                | 
+|**Original Baseline Model** | 88  | 88    | 88 | 
+| **Logistic Regression**  | 88  | 88         | 87                 |
+| **Random Forest**        | 92    | 92| 92            | 
 | **Enhanced Neural Network** | 92    | 92     | 92     |
-| **Updated Baseline (Optuna)** | 93  | 93    | 92 | 
+| **Updated Baseline ** | 93  | 93    | 92 | 
 
 ## 📄 Files Included
 
