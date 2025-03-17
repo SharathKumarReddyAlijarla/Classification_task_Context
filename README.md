@@ -79,7 +79,7 @@ Place the following files in your project directory:
 python updated_baseline_model.py
 
 # For New Model:
-python New_model_pipeline.py
+python NewModels.py
 ```
 ## 📝 Coding Style Guidelines
 
@@ -104,7 +104,7 @@ python New_model_pipeline.py
 
 | File Name                 | Description                                           |
 |--------------------------|-------------------------------------------------------|
-| `New_model_pipeline.py`| New Model pipeline (ML + Enhanced Neural Network)  |
+| `NewModels.py`| New Model pipeline (ML + Enhanced Neural Network)  |
 | `updated_baseline_model.py`| Enhanced Baseline Deep Neural Network Model         |
 | `train.csv`, `test.csv`   | Input datasets                                        |
 | `requirements.txt`       | Required dependencies                                 |
