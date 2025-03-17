@@ -1,0 +1,8 @@
+pandas==2.2.2
+optuna==4.2.1
+numpy==1.26.4
+matplotlib==3.9.2
+keras==3.9.0
+scikit-learn==1.6.1
+seaborn==0.13.2
+tensorflow==2.19.0
