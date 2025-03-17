@@ -5,7 +5,7 @@
 This project aims to build robust models to detect fake Instagram profiles using two distinct approaches:
 
 1. **Updated Baseline Model**: Enhanced Deep Neural Network with advanced hyperparameter tuning and regularization techniques.
-2. **Custom Model**: Combines Traditional Machine Learning models (Logistic Regression, Random Forest) with an Enhanced Neural Network architecture.
+2. **New Model**: Combines Traditional Machine Learning models (Logistic Regression, Random Forest) with an Enhanced Neural Network architecture.
 
 ---
 
@@ -26,7 +26,7 @@ This project aims to build robust models to detect fake Instagram profiles using
 
 ---
 
-### 2️⃣ Custom Model (Traditional ML + Enhanced Neural Network)
+### 2️⃣ New Model (Traditional ML + Enhanced Neural Network)
 
 **Preprocessing:**
 - Checked for missing values.
@@ -78,8 +78,8 @@ Place the following files in your project directory:
 # For Updated Baseline Model:
 python updated_baseline_model.py
 
-# For Custom Model:
-python custom_model_pipeline.py
+# For New Model:
+python New_model_pipeline.py
 ```
 ## 📝 Coding Style Guidelines
 
@@ -104,7 +104,7 @@ python custom_model_pipeline.py
 
 | File Name                 | Description                                           |
 |--------------------------|-------------------------------------------------------|
-| `custom_model_pipeline.py`| Custom Model pipeline (ML + Enhanced Neural Network)  |
+| `New_model_pipeline.py`| New Model pipeline (ML + Enhanced Neural Network)  |
 | `updated_baseline_model.py`| Enhanced Baseline Deep Neural Network Model         |
 | `train.csv`, `test.csv`   | Input datasets                                        |
 | `requirements.txt`       | Required dependencies                                 |
